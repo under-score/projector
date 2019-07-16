@@ -16,7 +16,7 @@ point your display browser on the remote computer with projector attached to htt
 ![screenshot](screenshot.jpg "admin")
 
 the two links top right let the display refresh or go black 
-all other media will be picked up by the admin script
-
-note 1: chrome is the best display browser
+all other media will be picked up by the admin script  
+  
+note 1: chrome is the best display browser  
 note 2: start the video manually (first time) with right click in display browser
