@@ -1,8 +1,8 @@
 # projector
 a universal browser based powerpoint(r) replacement  
 
-copy all files to /Library/WebServer/Documents/projector
-coyp all media files to /Library/WebServer/Documents/projector
+copy all files to /Library/WebServer/Documents/projector  
+coyp the media files to /Library/WebServer/Documents/projector
 (jpg, mp3, links
 
 ```
@@ -10,9 +10,14 @@ sudo php -S 0.0.0.0:80 -t /Library/WebServer/Documents/projector -c /Library/Web
 ```
 
 point your administrator browser to http://0.0.0.0/admin.php  
-point your display computer to http://0.0.0.0/link.php  
+point your display browser with attached  to http://0.0.0.0/link.php  
 
 ![screenshot](screenshot.jpg "admin")  
 
-The admin script collects all media in the cache directory  
-By clicking the links in the admininistrator window the display shows the selected media  
+the admin script collects all media in the cache directory   
+
+inks top right let the display refresh or go black  
+all other links let the display change to the selected media    
+
+for webrtc the display browser will need some extensions
+some browsers will need to start the video manually (first time only)
