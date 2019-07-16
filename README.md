@@ -20,5 +20,5 @@ the admin script collects all media in the cache directory
 the two links top right let the display refresh or go black  
 all other links let the display change to the selected media    
 
-note 1: for webrtc the display browser will need some extensions
+note 1: for webrtc the display browser will need some extensions  
 note 2: some display browsers will need to start the video manually (first time only)
