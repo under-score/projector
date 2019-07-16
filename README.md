@@ -11,14 +11,12 @@ sudo php -S 0.0.0.0:80 -t /Library/WebServer/Documents/projector -c /Library/Web
 ```
 
 point your administrator browser to http://0.0.0.0/admin.php  
-point your display browser with attached to http://0.0.0.0/display.php  
+point your display browser on the remote computer with projector to http://0.0.0.0/display.php  
 
 ![screenshot](screenshot.jpg "admin")
 
-the admin script collects all media in the cache directory   
-
-the two links top right let the display refresh or go black  
-all other links let the display change to the selected media    
+the two links top right let the display refresh or go black 
+all other media are picked up by the admin script
 
 note 1: for webrtc the display browser will need some extensions  
 note 2: some display browsers will need to start the video manually (first time only)
