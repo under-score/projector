@@ -11,7 +11,7 @@ sudo php -S 0.0.0.0:80 -t /Library/WebServer/Documents/projector -c /Library/Web
 ```
 
 point your administrator browser to http://0.0.0.0/admin.php  
-point your display browser on the remote computer with projector to http://0.0.0.0/display.php  
+point your display browser on the remote computer with projector to http://[admin]/display.php  
 
 ![screenshot](screenshot.jpg "admin")
 
