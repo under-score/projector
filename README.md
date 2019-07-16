@@ -3,7 +3,7 @@ a universal browser based powerpoint(r) replacement
 
 copy all files to /Library/WebServer/Documents/projector  
 export powerpoint slides as jpg 2048x1536 pixel and  
-coyp all media files to /Library/WebServer/Documents/projector
+copy all media files to /Library/WebServer/Documents/projector
 (jpg, mp3, apple urls, ...)
 
 ```
